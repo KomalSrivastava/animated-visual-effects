@@ -1,4 +1,4 @@
-# Three.js Scratch Effect Project
+# Three.js animated-visual-effects Project
 
 ## Overview
 This project implements a visually engaging background animation using Three.js alongside a scratch effect that reveals letters in a text. The animation is designed to create an interactive and dynamic user experience.
